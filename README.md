@@ -17,7 +17,7 @@ Cada carpeta numerada corresponde a un proyecto completo e independiente de Andr
 | `3_MisTareas2/` | **3. Mis Tareas 2** | SharedPreferences, MaterialAlertDialogBuilder, DatePickerDialog, Toast y Snackbar. |
 | `4_MiBiblioteca/` | **4. Mi Biblioteca** | Persistencia relacional SQLite con Room (`@Entity`, `@Dao`, `@Database`) y trabajo en segundo plano (`ExecutorService`). |
 | `5_NoticiasFP/` | **5. Noticias FP** | Material Design 3, tema propio claro/oscuro (`values` / `values-night`), Top App Bar, Navigation Drawer, Chip y Extended FAB. |
-| `evidencias/` | **PDF de Evidencias** | Capturas obligatorias de todas las pruebas (`Hito2_Evidencias_Hernandez_Boukoba.pdf`). |
+| `evidencias/` | **PDF de Evidencias** | Capturas obligatorias de todas las pruebas (`Hito2_Evidencias_PabloHernandez_MohamedBoukoba.pdf`). |
 
 ---
 
